@@ -11,4 +11,4 @@ console.log(typeof qualquer)
 
 let valor = ''
 let numero = 1
-let pqp = false // Produto Quimico Perigoso... kkkk
+let pqp = false // Produto Quimico Perigoso... kkkkk
